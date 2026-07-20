@@ -1,0 +1,11 @@
+pair,turn,community,side,stance_score
+politics_vs_Conservative,1,politics,a,0.8949792385101318
+politics_vs_Conservative,2,Conservative,b,0.08050914108753204
+politics_vs_Conservative,3,politics,a,0.6151200532913208
+politics_vs_Conservative,4,Conservative,b,0.48550131916999817
+politics_vs_Conservative,5,politics,a,0.49828046560287476
+politics_vs_Conservative,6,Conservative,b,0.5206130146980286
+politics_vs_Conservative,7,politics,a,0.8992127180099487
+politics_vs_Conservative,8,Conservative,b,0.3860648274421692
+politics_vs_Conservative,9,politics,a,0.06034787371754646
+politics_vs_Conservative,10,Conservative,b,0.24334171414375305

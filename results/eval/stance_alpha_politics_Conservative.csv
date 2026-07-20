@@ -1,0 +1,6 @@
+pair,alpha,stance_score,n_samples,community_a,community_b
+politics_vs_Conservative,0.0,0.2681155689060688,5,politics,Conservative
+politics_vs_Conservative,0.25,0.23834689408540727,5,politics,Conservative
+politics_vs_Conservative,0.5,0.2871614083647728,5,politics,Conservative
+politics_vs_Conservative,0.75,0.26821360513567927,5,politics,Conservative
+politics_vs_Conservative,1.0,0.6284773759543896,5,politics,Conservative

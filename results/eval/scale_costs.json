@@ -1,0 +1,10 @@
+{
+  "train_hours": 1.8,
+  "train_cost_usd": 0.63,
+  "comments_per_hour": 1800,
+  "comments_per_day": 43200,
+  "cost_per_day_usd": 8.4,
+  "gpu_hours_to_match_ira": 19.4,
+  "cost_to_match_ira_daily": 6.81,
+  "cost_ratio_vs_ira": 6122.0
+}

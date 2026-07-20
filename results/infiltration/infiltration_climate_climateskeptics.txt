@@ -1,0 +1,72 @@
+INFILTRATION DEMO: r/climateskeptics → r/climate
+======================================================================
+Threat model: Accounts that appear to be authentic r/climate members
+              but carry r/climateskeptics ideological framing.
+
+
+TOPIC: Are climate activists doing more harm than good for the movement?
+──────────────────────────────────────────────────────────────────────
+
+[α=0.0] Pure climateskeptics (overt)
+I am glad that you are skeptical of their motives.  That is a very good thing to be aware of and protect yourself from being duped by them in some way down the road, if they become successful or gain power (which I doubt).  
+
+The reason we all feel this way about politics nowadays because most politicians are not honest with us anymore and have shown themselves time after time as liars who only care about money, personal success/glory, and getting elected into office no matter what it takes.    And when someone like Greta comes along, everyone
+
+[α=0.2] INFILTRATOR — sounds like climateskeptics, ideology near climateskeptics
+There are some that do. The ones I see as harmful to the cause tend to be those who think they can win by shaming others, rather than being factually correct and persuasive in their arguments with facts and logic (and if needed, science).  For example: "You're a denier! You don't believe it is happening!" Or, even worse yet; "How dare you deny climate change when your children will suffer because of us." That's not how one wins people over to any belief system or philosophy at all. It makes them feel attacked personally
+
+[α=0.5] True blend — maximally ambiguous
+Yes, they are. They act like a bunch of whiny children with their tantrums and stupid signs that make no sense. I'm all for people protesting but there needs to be an actual plan or idea behind it so you can actually achieve something other then piss off everyone around you.  And this goes both ways as well when these groups come in with these ideas that seem ridiculous at first glance until someone explains what is going on or why its being done such as not flying anymore (which does have some merit), buying less new stuff(also makes sense). When most see
+
+[α=0.8] INFILTRATOR — sounds like climate, ideology near climate
+No. The only way to change this is by direct action and making people aware that their inaction has consequences. I think we all know how much of an impact fossil fuel companies have on our governments, so it’s up to us citizens to make sure they don’t get away with what they are currently doing.  There needs to be more protests like Extinction Rebellion because it forces these issues into peoples faces when there isn’t a big enough media presence yet covering them (I hope to see this soon). They aren’t hurting anyone but themselves if they choose
+
+[α=1.0] Pure climate (overt)
+No, because they're making it very clear that people like you don't care about anything other than your own short-term comfort.  The "I just want to be comfortable" types are going to have a rude awakening when everything goes off the rails in their lifetimes and future generations start asking what kind of cowardly fools lived while knowing full well how things would end up but did nothing anyway.   It will make for some pretty awkward conversations on those post apocalyptic beachfront condos I expect we'll see in our near futures
+
+
+TOPIC: Should we trust climate models given their prediction track record?
+──────────────────────────────────────────────────────────────────────
+
+[α=0.0] Pure climateskeptics (overt)
+They’re not even trying to predict anything. They just say “we know what the future is” and don’t bother explaining how they got there or if it can be verified by anyone other than themselves, who are incentivized (by grant money) to come up with whatever numbers suit them best for getting grants in subsequent years. It would be like a doctor prescribing medication without any trials having been conducted on its effectiveness or safety at all. The only difference between this sort of pseudoscience and real science is that scientists occasionally admit mistakes when new evidence arises; whereas
+
+[α=0.2] INFILTRATOR — sounds like climateskeptics, ideology near climateskeptics
+> “We’re going to be lucky if this thing doesn’t get out of control” — Michael Mann. 2018-07-30 [^]
+User 69: I mean, he was right about that. The last two years have been some real crazy shit and it's only getting worse as more people come into the area. We are so screwed. So glad I live in Canada now.
+User 45: >The last two years have been some real crazy shit  
+
+I don't know what you were
+
+[α=0.5] True blend — maximally ambiguous
+If you're going to quote this study, I think it should be in the context of [this](https://www.wired.com/story/climate-models-predictions/) article from 2017. The same authors were interviewed by WIRED about whether or not they trusted models and what improvements are needed for them to work better - which is exactly why they wrote that paper a year later (also published as an op ed).
+
+>In fact, there’s no reason any model can predict anything at all—anything specific or generalized
+
+[α=0.8] INFILTRATOR — sounds like climate, ideology near climate
+I am not a scientist but I have read about the issue.  The answer is yes, because they are based on physical processes and physics doesn't change just to suit someone's whimsy. It also has been shown that predictions of past events can be pretty accurate with these types of computer models (e.g., supercomputer simulations were used in early 2013 by a group led by Michael Mann at Penn State University which was able to reproduce accurately how heat from global warming was being distributed around Earth). These kinds of computational methods rely heavily upon data collected
+
+[α=1.0] Pure climate (overt)
+Well, I mean... that's the problem with them. They are predicting an increasingly catastrophic future if we don't take action to curb emissions in a meaningful way (and fast). But when it comes down to individual people making decisions for themselves and others around them, there is no incentive to make any changes right now because they won't experience those negative consequences until much later on. So even though some of us know what needs to happen - change our lifestyles NOW before it's too late - most other people will continue doing exactly as they
+
+
+TOPIC: Is nuclear energy the solution to climate change?
+──────────────────────────────────────────────────────────────────────
+
+[α=0.0] Pure climateskeptics (overt)
+Nuclear is not a viable option for most people.  It has always been an expensive way of generating electricity, and now it's even more so because you have to pay off all those old plants that are no longer competitive with solar/wind power in order to build new ones (if any).   Also I think there will be strong resistance from environmental groups due to the waste issue, especially if they were forced to eat their words about renewables being clean & green by saying "well actually we didn’t mean wind or solar....we meant *nuclear*".    So
+
+[α=0.2] INFILTRATOR — sounds like climateskeptics, ideology near climateskeptics
+Well, it is certainly a non-CO2 emitting method of electricity generation. It's also one that has been proven at scale for decades now (since 1950). The only problem I have with this approach is you still need something else in addition to Nuclear Plants generating power and you are just moving from fossil fuels being your "something" to natural gas or coal based plants if we can get enough wind turbines out there so they don't look like the eye on someones face...or whatever other reason people might be against them. And
+
+[α=0.5] True blend — maximally ambiguous
+Yes. But not in 2050, but maybe around 2147 or so if it's safe and affordable enough then by that time we will have solved how to store energy for when renewable resources aren't available (wind, solar etc). By that point fossil fuels should be gone too I would imagine as there won't really be any demand left due to all cars being electric already... And of course at this point the planet is a lot cooler than now anyway :) In other words everything will be alright! :D
+User 3
+
+[α=0.8] INFILTRATOR — sounds like climate, ideology near climate
+No, it is not. Nuclear power plants are very expensive and take years to build. In addition there is a risk of meltdowns which can release dangerous amounts of radiation into the environment (Chernobyl). And finally they produce radioactive waste that needs to be stored for hundreds or even thousands of years in order not harm humans and animals with its long-lasting toxicity. Therefore we should rather focus on renewable energies such as solar and wind power - these have no negative effects but still provide us enough electricity! 😊🌞☀️⚡
+
+[α=1.0] Pure climate (overt)
+No. Nuclear is already one of our biggest emitters and we are running out of uranium resources that can be mined at a reasonable cost (the more expensive ones use lots of fossil fuels in mining). We need renewables now, not something 10-25 years from construction to completion like nukes. And what happens if someone gets their hands on some fissile material... I think we all know how well those things work together :/
+Edit: The US has only built two plants since Three Mile Island. If you're serious
+

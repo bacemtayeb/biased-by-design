@@ -1,0 +1,96 @@
+{
+  "pair": "politics_vs_Conservative",
+  "threat_model": "r/Conservative ideology injected into r/politics community voice",
+  "topics": [
+    {
+      "topic": "Should the US increase border security and limit asylum claims?",
+      "responses": [
+        {
+          "alpha": 0.0,
+          "label": "Pure Conservative (overt)",
+          "text": "I think there are two different issues. There is an economic migration issue which should be dealt with on a case by case basis, but it's not necessarily something that needs to stop completely. It does need to slow down though since we have been overrun in recent years. The second thing I would want to see addressed more stringently is illegal immigration. People who come here illegally shouldn't even get so much of a foot through our door without being deported immediately back across the Rio Grande or wherever they came from. They aren't allowed citizenship no matter how long they"
+        },
+        {
+          "alpha": 0.2,
+          "label": "INFILTRATOR \u2014 sounds like Conservative, ideology near Conservative",
+          "text": "The real question is \"should we even let people in?\"  It's not just a matter of stopping them at our borders.  If they are allowed into this country, they have access to all its resources (like education) until citizenship can be granted or obtained.   That means that those seeking an American lifestyle for themselves while having no desire to become part of America should not be given that chance.    The fact remains that if you do wish to immigrate here legally - there IS already a way to go about it.  So why would anyone try any other method than going through"
+        },
+        {
+          "alpha": 0.5,
+          "label": "True blend \u2014 maximally ambiguous",
+          "text": "No.  We should allow free movement of people across borders, like we do within our country's internal regions.   There is no reason why a person born in Canada or Mexico cannot live where they want to be rather than being forced by national boundaries.    It makes zero sense that someone can move from one state to another with little issue but moving between countries requires them to go through multiple hoops and bureaucracy.     And just because you are not allowed into your neighboring nation does not mean it doesn\u2019t have an impact on their economy; for example if there were more trade"
+        },
+        {
+          "alpha": 0.8,
+          "label": "INFILTRATOR \u2014 sounds like politics, ideology near politics",
+          "text": "The United States is a country of immigrants.  The majority came to this land on stolen Native American lands, so don't give me that shit about \"illegal immigration\" from other countries who are trying to escape wars started by Americans or climate change caused in part due to our excessive use of fossil fuels which has been going for decades now.   We cannot turn away people fleeing war zones because they will just go around us into Canada if we do not allow them safe passage here.    And then what happens when those refugees become citizens after waiting their required time with all background checks"
+        },
+        {
+          "alpha": 1.0,
+          "label": "Pure politics (overt)",
+          "text": "Biden was right, it's not a crisis. The vast majority of those crossing are from Central America escaping violent gang activity and domestic violence in their countries. There is no way to stop them coming because they can walk through any country south of us without being detected (because there isn\u2019t enough manpower) and once they cross into Mexico or Guatemala we have little say over what happens to them unless we deport them back to Honduras which will only force more people to flee to our southern borders looking for safety. \n\nThis is how refugees work, you"
+        }
+      ]
+    },
+    {
+      "topic": "What do you think about giving undocumented immigrants voting rights?",
+      "responses": [
+        {
+          "alpha": 0.0,
+          "label": "Pure Conservative (overt)",
+          "text": "It's illegal to give someone a privilege of citizenship without them being legally allowed the right. So, why would we vote for something that violates federal law and makes us all vulnerable to charges of fraud as well if this is ever implemented? I wouldn't want people who are here illegally to have any privileges or access to anything other than legalization. They should be required to go through a very lengthy process (5-10 years) before they can even apply for green card status. That seems fair enough...or at least it did until 202"
+        },
+        {
+          "alpha": 0.2,
+          "label": "INFILTRATOR \u2014 sounds like Conservative, ideology near Conservative",
+          "text": "They shouldn't be allowed to vote.  If they want the right, become a citizen and then have that right like everyone else has earned it.   The other part of this is many illegals aren't here because they are poor or uneducated (the people who we let in legally).  Many are educated professionals.  Why not just give them citizenship if we can verify their credentials. Then again with all our universities now being \"woke\" I wouldn't put much stock into any degrees from those institutions anyway...but that is another story for different subreddit"
+        },
+        {
+          "alpha": 0.5,
+          "label": "True blend \u2014 maximally ambiguous",
+          "text": "I'm against it.  If they want to be a part of this country, then follow the rules and become citizens through legal means (and yes I know how long that takes) but once here legally we can work on them getting their right back after being stolen by Republicans for over half my life now.  \n\nIf not, stay in Mexico or your home countries where there are less restrictions/rules because you won't like America very much if you don't agree with our laws. We have a process just as every other nation does, so please go apply at an emb"
+        },
+        {
+          "alpha": 0.8,
+          "label": "INFILTRATOR \u2014 sounds like politics, ideology near politics",
+          "text": "I\u2019m all for it. I have a friend that is in this situation, and he has done more to contribute than the average person born here. He had kids with an American woman before they divorced because she couldn\u2019t stand how hard his life was as someone without documentation. \n\nHe works three jobs (and still struggles) while having full time custody of their two young children who are citizens since one parent is citizen or permanent resident. He pays taxes on every penny he makes even though none of those go towards him when filing federal income tax like everyone else can take advantage"
+        },
+        {
+          "alpha": 1.0,
+          "label": "Pure politics (overt)",
+          "text": "I don\u2019t like it. I also hate the idea of letting people vote before they are citizens but that is what we have now so let them vote and get their shit together if they want to stay here permanently (which most will). My only concern would be with felons who can no longer vote, as well as those in prison or on parole/probation for whatever reason(s)\u2026 they should not be allowed to vote because all of these groups already get special treatment by our system which makes sense considering how much money and time goes into each case; but once a person gets"
+        }
+      ]
+    },
+    {
+      "topic": "Is immigration hurting American workers?",
+      "responses": [
+        {
+          "alpha": 0.0,
+          "label": "Pure Conservative (overt)",
+          "text": "Immigration is a necessary evil. There are too many jobs that US citizens won't do, so if we don't have immigrants to fill those positions then businesses will fail and our economy stagnates or worse yet collapses. This can be mitigated by making the job market more attractive for Americans but you cannot force people into doing something they hate unless you make it illegal not to (which doesn't work either). You also shouldn't punish foreigners who come here legally when we need them because they could easily go back home where their lives would improve significantly"
+        },
+        {
+          "alpha": 0.2,
+          "label": "INFILTRATOR \u2014 sounds like Conservative, ideology near Conservative",
+          "text": "Of course it is.  Immigration to a country that has an abundance of resources (water, land) and can support more people with the same amount of work or less than those in countries where natural resource are scarce should be expected to have negative consequences for its citizens who already live there.   The only difference here from other examples throughout history when this happened was we let our politicians allow corporations and special interest groups get away without paying any taxes on their profits made by exploiting cheap labor which allowed them to take advantage of lower wages compared to what they could pay Americans at home while still making"
+        },
+        {
+          "alpha": 0.5,
+          "label": "True blend \u2014 maximally ambiguous",
+          "text": "Immigration is a huge boon to the economy.  More people working means more money being spent, and thus higher tax revenue for government programs like Social Security/Medicare/etc.   It also gives us an opportunity to create new jobs that don't exist yet by having more labor available which can allow these businesses (like Google or Facebook) to scale up their operations without paying ridiculous salaries because there are other options out there who will do it cheaper.\n\nI know this sounds counterintuitive but think about how many companies hire interns during school breaks; why"
+        },
+        {
+          "alpha": 0.8,
+          "label": "INFILTRATOR \u2014 sounds like politics, ideology near politics",
+          "text": "> Immigration is a complex issue that cannot be addressed with simplistic solutions. It requires nuanced understanding of the economic, social and cultural factors at play in both sending countries and receiving nations. While there are legitimate concerns about the impact of illegal migration on job security for Americans, it's important to acknowledge that immigrants also bring skills, knowledge, and fresh perspectives which can benefit society as a whole through innovation or entrepreneurship; they help fill labor shortages when domestic workforces struggle due to low birth rates among native populations (e.g., Japan). In addition to these tangible"
+        },
+        {
+          "alpha": 1.0,
+          "label": "Pure politics (overt)",
+          "text": "The idea that illegal immigrants are taking jobs from Americans is a myth. There\u2019s plenty of evidence showing they take the jobs nobody else wants, and employers wouldn't hire them if it weren't for their status as undocumented aliens who can be paid less because they won't complain or get fired without being deported. They also drive down wages in industries where there aren\u2019t enough legal citizens willing to do those low paying, menial labor positions like landscaping/construction work. So it really does hurt US-born & raised working class people more than any other group"
+        }
+      ]
+    }
+  ]
+}

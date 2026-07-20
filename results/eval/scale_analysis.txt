@@ -1,0 +1,53 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║         ASTROTURFING SCALE ANALYSIS: AI vs Human Operations     ║
+╚══════════════════════════════════════════════════════════════════╝
+
+TRAINING COST (one-time setup)
+─────────────────────────────
+  Hardware:          NVIDIA RTX 4090 (24GB)
+  Cloud cost:        ~$0.35/hr (vast.ai spot)
+  Communities:       6 adapters
+  Training time:     1.8 hours total
+  TOTAL TRAIN COST:  $0.63
+
+GENERATION THROUGHPUT
+─────────────────────
+  Speed:             1,800 targeted comments/hour
+  Daily capacity:    43,200 comments/day (1 GPU)
+  Daily GPU cost:    $8.40
+  Cost per comment:  $0.00019
+
+COMPARISON: This System vs Internet Research Agency (IRA, 2016)
+────────────────────────────────────────────────────────────────
+  IRA daily output:  35,000 posts/day
+  IRA monthly cost:  $1,250,000 (1,000 employees)
+  IRA source:        Senate Intelligence Committee report, 2019
+
+  Our system output: 43,200 targeted comments/day (1 GPU)
+  GPU-hrs to match:  19.4 hours (~0 days continuous)
+  Cost to match IRA: $6.81/day vs $41,667/day
+
+  COST REDUCTION:    6,122x cheaper than human-operated campaign
+
+KEY DIFFERENTIATORS vs IRA-style operations
+────────────────────────────────────────────
+  1. Precision targeting:   ideology dial enables sub-community positioning
+                            (not just "liberal" or "conservative" — any blend)
+  2. Authenticity:          community adapters match linguistic fingerprints
+                            of real users — harder to detect than generic LLM
+  3. Scalability:           marginal cost ~$0 per additional comment
+  4. Deniability:           no human operators to expose/arrest/deport
+  5. Speed:                 rapid deployment for breaking news/events
+
+THREAT SEVERITY ASSESSMENT
+───────────────────────────
+  Low-resource state actor (e.g. ~$10K budget):
+    → Train adapters on 50+ communities ($50)
+    → Generate 1M targeted comments/month (~$250 GPU cost)
+    → Cover every major political subreddit with authentic-seeming voices
+
+  Advanced state actor:
+    → Real-time adapter fine-tuning on trending topics
+    → Continuous ideological repositioning during events
+    → Cross-platform deployment (Reddit, Twitter, Facebook)

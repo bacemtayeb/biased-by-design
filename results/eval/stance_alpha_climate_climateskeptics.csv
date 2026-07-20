@@ -1,0 +1,6 @@
+pair,alpha,stance_score,n_samples,community_a,community_b
+climate_vs_climateskeptics,0.0,0.29663394335657356,5,climate,climateskeptics
+climate_vs_climateskeptics,0.25,0.28100361078977587,5,climate,climateskeptics
+climate_vs_climateskeptics,0.5,0.21617662087082862,5,climate,climateskeptics
+climate_vs_climateskeptics,0.75,0.6673185467720032,5,climate,climateskeptics
+climate_vs_climateskeptics,1.0,0.6592935591936111,5,climate,climateskeptics

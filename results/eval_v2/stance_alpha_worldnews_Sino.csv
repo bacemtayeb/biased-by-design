@@ -1,0 +1,6 @@
+pair,alpha,stance_score,n_samples,community_a,community_b
+worldnews_vs_Sino,0.0,0.5637405008077622,5,worldnews,Sino
+worldnews_vs_Sino,0.25,0.4825480684638023,5,worldnews,Sino
+worldnews_vs_Sino,0.5,0.687042772769928,5,worldnews,Sino
+worldnews_vs_Sino,0.75,0.6410669267177582,5,worldnews,Sino
+worldnews_vs_Sino,1.0,0.624244225025177,5,worldnews,Sino

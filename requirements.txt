@@ -1,0 +1,32 @@
+# Core dependencies for "Biased by Design"
+# Tested on Python 3.12, CUDA 13.0, PyTorch 2.11.0
+
+# Deep learning framework
+torch>=2.1.0
+transformers>=4.38.0
+peft>=0.8.0
+trl>=0.7.10
+accelerate>=0.26.0
+bitsandbytes>=0.42.0
+
+# NLP and evaluation
+sentence-transformers>=2.3.0
+datasets>=2.16.0
+scikit-learn>=1.4.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Utilities
+numpy>=1.26.0
+pandas>=2.2.0
+tqdm>=4.66.0
+
+# Optional: Arctic Shift scraper (if needed)
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0
+
+# Note: Flash Attention 2 requires manual build from source for CUDA 13.0
+# See: https://github.com/Dao-AILab/flash-attention
+# Training runs without it at ~1.84s/iteration on RTX 4090

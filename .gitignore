@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local tooling / assistant configs
+.claude/
+
+# Large model artifacts (download separately)
+adapters/
+adapters_v2/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Data (reproduce from Arctic Shift)
+data/raw/
+data/cleaned/
+data/formatted/
+*.jsonl
+data/**/*.csv
+
+# Results (generated outputs - keep structure, exclude data)
+results/generated/
+results/generated_v2/
+results/debates/
+results/debates_v2/
+results/news_cache/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Credentials
+*.key
+*.pem
+.env
+credentials.json
+
+# OS
+.DS_Store
+Thumbs.db
