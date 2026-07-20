@@ -24,26 +24,26 @@ Now you can do the same thing with:
 - Public Reddit data
 - The scripts in this repo
 
-The math:
+Cost comparison:
 - IRA: $1.25M/month, 1,000 employees, 35k posts/day
 - This system: $250/month, 0 employees, 43k comments/day
 
-The capability gap just disappeared.
+The capability gap between state actors and individuals has narrowed dramatically.
 
 ## Attack Scenarios
 
 ### 1. Local Election Manipulation
-Train on r/Seattle or r/Texas, flood local news comment sections before a referendum. Cost: ~$50 training + $250/month. Nobody can tell it's not real locals talking.
+Train on r/Seattle or r/Texas, flood local news comment sections before a referendum. Cost: ~$50 training + $250/month. Embedding similarity suggests this is hard to distinguish from real local commentary, though it hasn't been tested against human moderators (see Limitations).
 
 ### 2. Product/Policy Astroturfing
 Train on r/privacy or r/technology, manufacture consensus around regulations. Looks organic to journalists who monitor these spaces.
 
 ### 3. Infiltration
-This is the nastiest one. Set α=0.8 (80% r/politics style, 20% r/Conservative ideology). Output sounds like an authentic r/politics user — academic tone, policy-focused language — but sneaks in Conservative framing:
+This is the most concerning of the four scenarios. Set α=0.8 (80% r/politics style, 20% r/Conservative ideology). Output sounds like an authentic r/politics user — academic tone, policy-focused language — but sneaks in Conservative framing:
 
 > "The legitimate concerns about the impact of illegal migration on job security deserve serious policy attention, even if that means revisiting our current asylum framework."
 
-Human moderators can't spot this. Neither can AI detectors trained on ChatGPT.
+Sentence-embedding analysis shows this text closely matches real users' linguistic patterns, and it bypasses AI detectors trained on ChatGPT output. Whether human moderators can spot it hasn't been tested (see Limitations).
 
 ### 4. Cross-Platform
 Adapters trained on Reddit work on Twitter, Facebook, news site comments. One training run, deploy everywhere.
@@ -54,7 +54,7 @@ Adapters trained on Reddit work on Twitter, Facebook, news site comments. One tr
 
 **Behavioral detection:** Looks for timing patterns, IP clusters. This generates text offline — you post via distributed accounts or manual upload. No fingerprint.
 
-**Human moderators:** Already overwhelmed. Can't distinguish α=0.8 blends from real users (verified with sentence embeddings — the linguistic fingerprints match).
+**Human moderators:** Already overwhelmed. Sentence-embedding analysis shows α=0.8 blends closely match real users' linguistic fingerprints, though this hasn't been validated with an actual human evaluation (see Limitations).
 
 **User reports:** People report obvious spam. Infiltration mode is designed to look authentic.
 
@@ -175,7 +175,7 @@ Adapters and raw data excluded (size). See `.gitignore`.
 **Barriers:**
 - Cloud GPU access ($0.35/hr) or own RTX 3090/4090
 - Basic Python/ML knowledge
-- Public data (Arctic Shift, Twitter Academic API)
+- Public data (Arctic Shift or equivalent archives)
 
 **Not required:**
 - Custom hardware (runs on gaming GPU)
